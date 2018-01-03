@@ -1,4 +1,4 @@
-![Mate - Logger](https://mostofreddy.github.io/resty_logger/images/resty_logger.png)
+![Resty - Logger](https://mostofreddy.github.io/resty_logger/images/resty_logger.png)
 
 Logger simple y liviano, PSR-3 compatible y agnostico a cualquier Framework
 
@@ -17,7 +17,7 @@ __1.0.0__
 
 ## Documentación
 
-Ver [Wiki](https://github.com/mostofreddy/mate_logger/wiki)
+Ver [Wiki](https://github.com/mostofreddy/resty_logger/wiki)
 
 ## License
 
