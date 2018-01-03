@@ -1,0 +1,34 @@
+{
+    "name": "restyphp/logger",
+    "description": "Logger simple y liviano, PSR-3 compatible y agnostico a cualquier Framework",
+    "version": "1.0.0",
+    "keywords": ["logger", "PSR-3", "filelog", "trace", "log"],
+    "homepage": "https://github.com/mostofreddy/mate-mini-logger",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Federico Lozada Mosto",
+            "email": "mosto.federico@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Resty\\Logger\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1",
+        "psr/log": "^1.0"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Resty\\Logger\\Tests\\": "tests/src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.1.*",
+        "squizlabs/php_codesniffer": "3.0.*",
+        "satooshi/php-coveralls": "1.0.*"
+    }
+}
