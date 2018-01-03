@@ -29,7 +29,7 @@ The MIT License (MIT). Ver el archivo [LICENSE](LICENSE.md) para m√°s informaci√
 ```
 {
     "require": {
-        "mate/logger": "1.0.*"
+        "restyphp/logger": "1.0.*"
     }
 }
 ```
