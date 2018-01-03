@@ -3,7 +3,7 @@
     "description": "Logger simple y liviano, PSR-3 compatible y agnostico a cualquier Framework",
     "version": "1.0.0",
     "keywords": ["logger", "PSR-3", "filelog", "trace", "log"],
-    "homepage": "https://github.com/mostofreddy/mate-mini-logger",
+    "homepage": "https://github.com/mostofreddy/resty-logger",
     "type": "library",
     "license": "MIT",
     "authors": [
