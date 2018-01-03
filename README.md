@@ -1,10 +1,10 @@
-![Mate - Logger](https://mostofreddy.github.io/mate_logger/images/mate_logger.png)
+![Mate - Logger](https://mostofreddy.github.io/resty_logger/images/resty_logger.png)
 
 Logger simple y liviano, PSR-3 compatible y agnostico a cualquier Framework
 
-[![Build Status](https://travis-ci.org/mostofreddy/mate_logger.svg?branch=master)](https://travis-ci.org/mostofreddy/mate_logger)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mostofreddy/mate_logger/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mostofreddy/mate_logger/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/mostofreddy/mate_logger/badge.svg?branch=master)](https://coveralls.io/github/mostofreddy/mate_logger?branch=master)
+[![Build Status](https://travis-ci.org/mostofreddy/resty_logger.svg?branch=master)](https://travis-ci.org/mostofreddy/resty_logger)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mostofreddy/resty_logger/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mostofreddy/resty_logger/?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/mostofreddy/resty_logger/badge.svg?branch=master)](https://coveralls.io/github/mostofreddy/resty_logger?branch=master)
 
 ## Versión
 
