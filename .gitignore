@@ -1,9 +1,0 @@
-# composer
-vendor
-
-# Unit tests
-tests/coverage
-
-# QA
-phpunit.xml
-ruleset.xml
