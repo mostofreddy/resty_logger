@@ -1,3 +1,5 @@
+**Deprecated**
+
 ![Resty - Logger](https://mostofreddy.github.io/resty_logger/images/resty_logger.png)
 
 Logger simple y liviano, PSR-3 compatible y agnostico a cualquier Framework
